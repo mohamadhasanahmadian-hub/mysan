@@ -1,0 +1,1 @@
+FROM ghcr.io/mhsanaei/3x-ui:3.9.0
